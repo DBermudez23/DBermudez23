@@ -18,7 +18,7 @@
 # 💫About Me :
 20-year-old Colombian software engineering student with a passion for programming. I love diving into new technologies and challenging projects. 
 Currently exploring machine learning with Python. 
-My tech stack includes C++, C, JavaScript, React, Angular, CSS, Tailwind CSS, HTML, RTK Query, Git, MongoDB, Linux systems and Python 
+My tech stack includes C++, C, JavaScript, Java, React, Angular, CSS, Tailwind CSS, HTML, RTK Query, Git, MongoDB, Linux systems and Python 
 ¡Let's build something amazing together!
 
 
@@ -30,6 +30,7 @@ My tech stack includes C++, C, JavaScript, React, Angular, CSS, Tailwind CSS, HT
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
 
