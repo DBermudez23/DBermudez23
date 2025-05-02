@@ -25,40 +25,53 @@
 🔗 [Check out my web portfolio](https://portfoliodbermudez.netlify.app/) to see what I've been working on!
 
 ---
+Perfecto. Con base en los íconos de tu imagen y el estilo que estás usando en tu `README.md`, aquí tienes una **versión ampliada en HTML/Markdown** con los badges adecuados para que solo copies y pegues:
+
+---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![CSS3](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
+
+![C](https://img.shields.io/badge/-C-000000?style=flat\&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat\&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat\&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat\&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat\&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat\&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat\&logo=postgresql)
+![CSS3](https://img.shields.io/badge/CSS-239120?\&style=flat-square\&logo=css3\&logoColor=white)
 
 ### 🧠 Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?style=flat&logo=redux&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+
+![React](https://img.shields.io/badge/-React-222222?style=flat\&logo=react\&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat\&logo=svelte\&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-000000?style=flat\&logo=svelte)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat\&logo=node.js\&logoColor=339933)
+![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?style=flat\&logo=redux\&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat\&logo=jQuery\&logoColor=0769AD)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat\&logo=qt\&logoColor=white)
 
 ### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat\&logo=github\&logoColor=181717)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square\&logo=gnu-bash\&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat\&logo=npm\&logoColor=white)
 
 ---
 
 ## 💻 Operating Systems
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square\&logo=ubuntu\&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square\&logo=linux-mint\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square\&logo=windows\&logoColor=white)
 
 ---
 
