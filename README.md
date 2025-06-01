@@ -17,7 +17,7 @@
 
 ## 💫 About Me
 
-🎓 I'm a 20-year-old Software Engineering student from Colombia, passionate about building tech that makes an impact.  
+🎓 I'm a 21-year-old Software Engineering student from Colombia, passionate about building tech that makes an impact.  
 🚀 Currently diving into the world of **Machine Learning with Python**.  
 💻 I love working with modern web technologies and learning through real-world projects.  
 🌱 I believe in growth through **discipline, consistency, and curiosity**.
