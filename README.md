@@ -24,10 +24,7 @@
 
 🔗 [Check out my web portfolio](https://portfoliodbermudez.netlify.app/) to see what I've been working on!
 
----
-Perfecto. Con base en los íconos de tu imagen y el estilo que estás usando en tu `README.md`, aquí tienes una **versión ampliada en HTML/Markdown** con los badges adecuados para que solo copies y pegues:
-
----
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DBermudez23)](https://github.com/DBermudez23/github-readme-stats)
 
 ## 🛠️ Tech Stack
 
