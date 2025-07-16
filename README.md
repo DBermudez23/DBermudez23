@@ -2,7 +2,7 @@
 
 <br/>
 <h3 align="center">
-  I'm a 21-year-old Software Engineering student from Colombia, passionate about building tech that makes an impact.
+  I'm a 21-year-old Web Developer and Software Engineering student from Colombia, passionate about building tech that makes an impact.
 </h3>
 <br/>
 <p align="center">
