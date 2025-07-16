@@ -1,6 +1,5 @@
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=I'm+Daniel+Bermudez,+Welcome+to+my+Profile!👋" align="middle" alt="Hi 👋, I'm Daniel Felipe Bermudez Florez">
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=I'm+Daniel+Bermudez,+Welcome+to+my+Profile!👋)
+
 <br/>
 <h3 align="center">
   I'm a 21-year-old Software Engineering student from Colombia, passionate about building tech that makes an impact.
