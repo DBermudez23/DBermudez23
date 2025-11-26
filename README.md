@@ -33,6 +33,7 @@
 </p>
 <br/>
 
+---
 
 <h3 align="center">Main Technologies</h3>
 
@@ -74,6 +75,9 @@
     </td>
     <td align="center">
       <img alt="Prolog" height="50" src="assets/Prolog.svg"/><br/>Prolog
+    </td>
+    <td align="center">
+      <img alt="PHP" height="50" src="assets/PHP.svg"/><br/>PHP
     </td>
   </tr>
 </table>
@@ -120,6 +124,9 @@
     <td align="center">
       <img alt="Svelte" height="50" src="assets/Svelte.svg"/><br/>Svelte
     </td>
+    <td align="center">
+      <img alt="Nest" height="50" src="assets/Nestjs.svg"/><br/>Nest
+    </td>
   </tr>
 </table>
 
@@ -137,6 +144,21 @@
     </td>
     <td align="center">
       <img alt="MySQL" height="50" src="assets/MySQL.svg"/><br/>MySQL
+    </td>
+    <td align="center">
+      <img alt="Oracle" height="50" src="assets/Oracle.svg"/><br/>Oracle
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">Contenerization</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img alt="Docker" height="50" src="assets/Docker.svg"/><br/>Docker
     </td>
   </tr>
 </table>
