@@ -2,7 +2,7 @@
 
 <br/>
 <h3 align="center">
-  I'm a 21-year-old Web Developer and Software Engineering student from Colombia, passionate about building tech that makes an impact.
+  I'm a Web Developer and Software Engineering student from Colombia, passionate about building tech that makes an impact.
 </h3>
 <br/>
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="assets/Penguin.gif" alt="Penguin coder" /> <br>
+  <img align="center" src="assets/Rick.gif" alt="Penguin coder" /> <br>
 </p>
 
 
@@ -192,8 +192,8 @@
 <br/>
 
 
-<p align="center">
-  <img align="center" src="assets/RedPenguin.gif" alt="Penguin coder" /> <br>
+<p align="center" width="40px">
+  <img align="center" src="assets/ricksanchez.gif" alt="Penguin coder" /> <br>
 </p>
 
 [![Daniel Bermudez's Github Activity Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=DBermudez23&custom_title=Daniel's%20GitHub%20Activity%20Graph&bg_color=000000&color=82D0F6&line=82D0F6&point=82D0F6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
