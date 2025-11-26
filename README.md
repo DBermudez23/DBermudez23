@@ -1,13 +1,11 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=I'm+Daniel+Bermudez,+Welcome+to+my+Profile!👋)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=I'm+Daniel+Bermudez,+Welcome+to+my+Profile)
 
 <br/>
 <h3 align="center">
-  I'm a Web Developer and Software Engineering student from Colombia, passionate about building tech that makes an impact.
+  I'm a Web Developer and Software Engineering student, passionate about building tech that makes an impact.
 </h3>
 <br/>
-<p align="center">
-  I am deeply passionate about developing applications, primarily using the MERN stack for web development, although I can quickly adapt to any technology. I am currently studying Systems and Computing Engineering at UTP (Technological University of Pereira), but most of my knowledge has been acquired through self-learning. I also have a basic understanding of machine learning concepts, strong mathematical foundations, and excellent logical reasoning skills.
-</p>
+
 
 <p align="center">
   <img align="center" src="assets/Rick.gif" alt="Penguin coder" /> <br>
