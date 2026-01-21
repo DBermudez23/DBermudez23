@@ -2,7 +2,7 @@
 
 <br/>
 <h3 align="center">
-  I'm a Web Developer and Software Engineering student, passionate about building tech that makes an impact.
+  I'm a Web Developer and Systems Engineering student, passionate about building tech that makes an impact.
 </h3>
 <br/>
 
@@ -67,12 +67,6 @@
     </td>
     <td align="center">
       <img alt="Python" height="50" src="assets/Python.svg"/><br/>Python
-    </td>
-    <td align="center">
-      <img alt="C++" height="50" src="assets/C++.svg"/><br/>C++
-    </td>
-    <td align="center">
-      <img alt="Prolog" height="50" src="assets/Prolog.svg"/><br/>Prolog
     </td>
     <td align="center">
       <img alt="PHP" height="50" src="assets/PHP.svg"/><br/>PHP
@@ -180,10 +174,7 @@
       <img alt="NPM" height="50" src="assets/NPM.svg"/><br/>NPM
     </td>
     <td align="center">
-      <img alt="PyGame" height="50" src="assets/PyGame.svg"/><br/>PyGame
-    </td>
-    <td align="center">
-      <img alt="Redux" height="50" src="assets/Redux.svg"/><br/>Redux
+      <img alt="Redux" height="50" src="assets/Redux.svg"/><br/>ReduxToolkit
     </td>
   </tr>
 </table>
