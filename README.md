@@ -25,17 +25,6 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<h4 align="center">Main Stack (MERN)</h4>
-
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-</div>
-
 <h4 align="center">Programming Languages</h4>
 
 <div align="center">
