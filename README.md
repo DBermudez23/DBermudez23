@@ -65,76 +65,20 @@ I build software with clean logic, intentional design, and enough madness to kee
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,nodejs,express,python,php" alt="Backend stack"/>
 
-<br/><br/>
-
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-0D1117?style=for-the-badge&logo=databricks&logoColor=82D0F6)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
-
-<br/><br/>
-
 ### Frontend and Mobile
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,figma" alt="Frontend stack"/>
 
-<br/><br/>
-
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-2D1B69?style=for-the-badge&logo=redux&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-2D1B69?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-171717?style=for-the-badge&logo=react&logoColor=white)
-
-<br/><br/>
 
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,prisma" alt="Database stack"/>
-
-<br/><br/>
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white)
-
-<br/><br/>
 
 ### DevOps and Tools
 
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,vscode,bash" alt="DevOps and tools stack"/>
 
 <br/><br/>
-
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![PNPM](https://img.shields.io/badge/PNPM-111111?style=for-the-badge&logo=pnpm&logoColor=F69220)
-
-</div>
-
----
-
-<div align="center">
-
-## Current Mode
-
-<img src="assets/penguin-code.gif" alt="Penguin coding" width="250"/>
-
-<br/><br/>
-
-```txt
-Backend first.
-Frontend with discipline.
-Architecture before noise.
-Simple systems over decorative complexity.
-```
 
 </div>
 
